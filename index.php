@@ -6,3 +6,4 @@
  * Time: 下午 5:12
  */
 echo phpinfo();
+exit();
